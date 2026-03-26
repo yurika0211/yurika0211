@@ -30,14 +30,27 @@ motto: "Code with passion, create with love"
 
 </div>
 
-## GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yurika0211&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&ring_color=38BDF8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yurika0211&hide_border=true&background=020617&ring=38BDF8&fire=818CF8&currStreakNum=38BDF8&currStreakLabel=38BDF8&sideNums=818CF8&sideLabels=94A3B8&dates=94A3B8" />
+## GitHub 开发者档案 🛰️
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=yurika0211&show_icons=true&hide_border=true&bg_color=050505&title_color=00FFFF&icon_color=00FF41&text_color=9CA3AF&ring_color=00FFFF" alt="Yurika's GitHub Stats" />
+    </td>
+    <td width="20"></td> <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurika0211&hide_border=true&background=050505&ring=00FFFF&fire=00FF41&currStreakNum=00FFFF&currStreakLabel=00FFFF&sideNums=00FF41&sideLabels=9CA3AF&dates=9CA3AF" alt="Yurika's Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurika0211&layout=compact&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=9CA3AF" alt="Top Languages" />
 
 </div>
+
 ## Contribution Snake
 
 <div align="center">
