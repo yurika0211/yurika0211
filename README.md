@@ -47,7 +47,7 @@ motto: "Code with passion, create with love"
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurika0211&layout=compact&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=9CA3AF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurika0211&layout=compact&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=9CA3AF&hide=javascript" alt="Top Languages" />
 
 </div>
 
