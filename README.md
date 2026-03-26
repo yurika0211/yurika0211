@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=yurika0211&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/yurika0211/yurika0211/main/header.png" width="100%" alt="yurika0211 Header" />
 </div>
 
 ## About Me
