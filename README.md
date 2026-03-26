@@ -13,6 +13,19 @@ interests: [Full-Stack, UI/UX, Anime & Gaming]
 motto: "Code with passion, create with love"
 ```
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+
 ## Tech Stack
 
 <div align="center">
@@ -31,6 +44,9 @@ motto: "Code with passion, create with love"
 
 ## GitHub 开发者档案 🛰️
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurika0211&layout=compact&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=9CA3AF&hide=javascript,php,html,css,vim%20script" alt="Top Languages" />
+
+
 <table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <td align="center" valign="top">
@@ -41,21 +57,9 @@ motto: "Code with passion, create with love"
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurika0211&layout=compact&hide_border=true&bg_color=050505&title_color=00FFFF&text_color=9CA3AF&hide=javascript,php,html,css,vim%20script" alt="Top Languages" />
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
