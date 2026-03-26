@@ -1,5 +1,33 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yurika0211/yurika0211/main/header.png" width="100%" alt="yurika0211 Header" />
+
+
+root@system:~# ./init_profile --user yurika0211
+
+Initializing matrix... [OK]
+Loading profile...     [OK]
+
+               _ _         ___  ___  _ _
+ _   _ _   _ _ __(_) | ____ _  / _ \(__ \/ |/ |
+| | | | | | | '__| | |/ / _` | | | | |/ /| || |
+| |_| | |_| | |  | |   < (_| | | |_| / /_| || |
+ \__, |\__,_|_|  |_|_|\_\__,_|  \___/____|_||_|
+ |___/
+
+> SYS_STATUS: ONLINE   |   LOC: CHINA   |   ROLE: DEVELOPER
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td align="center" valign="top">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyurika0211%26show_icons%3Dtrue%26hide_border%3Dtrue%26bg_color%3D050505%26title_color%3D00FFFF%26icon_color%3D00FF41%26text_color%3D9CA3AF%26ring_color%3D00FFFF" alt="Yurika's GitHub Stats" />
+</td>
+<td width="20"></td>
+<td align="center" valign="top">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyurika0211%26hide_border%3Dtrue%26background%3D050505%26ring%3D00FFFF%26fire%3D00FF41%26currStreakNum%3D00FFFF%26currStreakLabel%3D00FFFF%26sideNums%3D00FF41%26sideLabels%3D9CA3AF%26dates%3D9CA3AF" alt="Yurika's Streak Stats" />
+</td>
+</tr>
+</table>
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyurika0211%26layout%3Dcompact%26hide_border%3Dtrue%26bg_color%3D050505%26title_color%3D00FFFF%26text_color%3D9CA3AF" alt="Top Languages" />
+
 </div>
 
 ## About Me
