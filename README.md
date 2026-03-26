@@ -34,11 +34,10 @@ motto: "Code with passion, create with love"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yurika0211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E891F5&icon_color=F8D866&text_color=FFFFFF&ring_color=E891F5" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yurika0211&theme=tokyonight&hide_border=true&background=0D1117&ring=E891F5&fire=F8D866&currStreakLabel=E891F5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yurika0211&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&ring_color=38BDF8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yurika0211&hide_border=true&background=020617&ring=38BDF8&fire=818CF8&currStreakNum=38BDF8&currStreakLabel=38BDF8&sideNums=818CF8&sideLabels=94A3B8&dates=94A3B8" />
 
 </div>
-
 ## Contribution Snake
 
 <div align="center">
