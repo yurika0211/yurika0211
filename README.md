@@ -36,9 +36,6 @@ motto: "Code with passion, create with love"
     <td align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=yurika0211&show_icons=true&hide_border=true&bg_color=050505&title_color=00FFFF&icon_color=00FF41&text_color=9CA3AF&ring_color=00FFFF" alt="Yurika's GitHub Stats" />
     </td>
-    <td width="20"></td> <td align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurika0211&hide_border=true&background=050505&ring=00FFFF&fire=00FF41&currStreakNum=00FFFF&currStreakLabel=00FFFF&sideNums=00FF41&sideLabels=9CA3AF&dates=9CA3AF" alt="Yurika's Streak Stats" />
-    </td>
   </tr>
 </table>
 
