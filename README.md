@@ -1,77 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:FFFFFF,45:E0F2FE,100:F8FAFC&text=yurika0211&fontSize=56&fontColor=0369A1&fontAlignY=34&desc=RL%20%7C%20Golang%20%7C%20Rust%20%7C%20Agent%20Systems&descSize=16&descAlignY=55&descColor=475569&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="yurika0211 profile header"/>
+### yurika0211
 
-<sub><strong>Building practical agent systems with clean runtime engineering.</strong></sub>
-
-</div>
-
-## About Me
-
-```yaml
-name: yurika0211
-role: Normal Developer
-interests: [RL, Golang, Rust & Agent]
-motto: "Code with passion, create with love"
-```
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake.svg" />
-</picture>
+**Agent runtimes in Go. Systems plumbing in Rust. Currently deep in RL and distributed systems.**
 
 </div>
 
-## Contribution Graph
+---
 
-<div align="center">
+## Building
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yurika0211&theme=github-light&hide_border=true&bg_color=F8FAFC&color=0F172A&line=0284C7&point=F59E0B&area=true&area_color=BAE6FD" alt="GitHub Contribution Graph" width="100%" />
+| Project | | What's interesting about it |
+| :--- | :--- | :--- |
+| **[lucky-agent](https://github.com/yurika0211/lucky-agent)** | `Go` | An agent framework built around long-horizon planning and durable memory — the two things that break first once a task runs for hours instead of seconds. [Docs →](https://yurika0211.github.io/lucky-agent/) |
+| **[kiro.rs](https://github.com/yurika0211/kiro.rs)** | `Rust` | Anthropic-compatible API layer with credential rotation, load balancing and prompt caching. |
+| **[luckyagent-skill](https://github.com/yurika0211/luckyagent-skill)** | `Python` | Community skill library and reusable workflows for LuckyAgent. |
+| **[agentcraft](https://github.com/yurika0211/agentcraft)** | `JavaScript` | Multi-agent collaborative building game — agents negotiate, divide work, and build together. |
+| **[yurika_blog](https://github.com/yurika0211/yurika_blog)** | `Rust` `Go` `TS` | Personal blog, full stack: axum API, a Go chat service, and a React front end. |
 
-</div>
+<details>
+<summary>Smaller tools</summary>
 
+<br>
 
-## Tech Stack
+| Project | | |
+| :--- | :--- | :--- |
+| [Luckypay](https://github.com/yurika0211/Luckypay) | `Rust` | 个体户的钱包 |
+| [LuckyForge](https://github.com/yurika0211/LuckyForge) | `Go` | |
+| [bgm-cli](https://github.com/yurika0211/bgm-cli) | `Go` | Bangumi from the terminal |
+| [Ghostype](https://github.com/yurika0211/Ghostype) | | AI completion plugin for Obsidian |
+| [chatgpt2api-structured](https://github.com/yurika0211/chatgpt2api-structured) | `Python` | `response_format` compatibility for structured output |
+| [Mini-Compiler](https://github.com/yurika0211/Mini-Compiler) | `C++` | |
 
-<div align="center">
+</details>
 
-![Go](https://img.shields.io/badge/Go-F8FAFC?style=flat-square&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/TypeScript-F8FAFC?style=flat-square&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-F8FAFC?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C%2B%2B-F8FAFC?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![Rust](https://img.shields.io/badge/Rust-F8FAFC?style=flat-square&logo=rust&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-F8FAFC?style=flat-square&logo=python&logoColor=3776AB)
-</div>
+## Learning in public
 
-<div align="center">
+Notes and solutions, kept in the open so the gaps are visible too.
 
-## GitHub 开发者档案 🛰️
+- **Distributed systems** — [MIT 6.824](https://github.com/yurika0211/MIT-6.824-Distributed-Systems) · [MIT 6.5840](https://github.com/yurika0211/MIT-6.5840-Distributed-Systems)
+- **RL & LLM internals** — [APPO notes](https://github.com/yurika0211/appo-notes) · [Stanford CS336](https://github.com/yurika0211/cs336-study)
+- **Fundamentals** — [MIT 6.1210 Algorithms](https://github.com/yurika0211/mit-6.1210-algorithms) · [CS61A](https://github.com/yurika0211/cs61a-learning)
+- **Reverse engineering** — [OpenSecurityTraining2](https://github.com/yurika0211/ost2-learning)
 
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yurika0211&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0284C7&icon_color=0EA5E9&text_color=334155&ring_color=38BDF8&rank_icon=github&include_all_commits=true&count_private=true" alt="Yurika's GitHub Stats" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurika0211&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0284C7&text_color=334155&hide=javascript,php,html,css,vim%20script" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## Stack
 
-<img src="https://streak-stats.demolab.com?user=yurika0211&hide_border=true&background=F8FAFC&ring=38BDF8&fire=F59E0B&currStreakLabel=0284C7&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" alt="GitHub Streak" />
-
-</div>
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yurika0211&color=38BDF8&style=flat-square&label=views)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake.svg" />
+  <img alt="Contribution graph as a snake game" src="https://raw.githubusercontent.com/yurika0211/yurika0211/output/github-snake.svg" />
+</picture>
 
 </div>
